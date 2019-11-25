@@ -1,0 +1,23 @@
+{
+  "@react-native-community/async-storage": "latest",
+  "i18next": "latest",
+  "moment": "latest",
+  "query-string": "latest",
+  "react-i18next": "latest",
+  "react-native-gesture-handler": "latest",
+  "react-native-iphone-x-helper": "latest",
+  "react-native-localize": "latest",
+  "react-native-reanimated": "latest",
+  "react-native-splash-screen": "latest",
+  "react-navigation": "latest",
+  "react-navigation-stack": "latest",
+  "react-navigation-tabs": "latest",
+  "react-redux": "latest",
+  "redux": "latest",
+  "redux-actions": "latest",
+  "redux-batched-actions": "latest",
+  "redux-persist": "latest",
+  "redux-saga": "latest",
+  "redux-saga-helpers": "latest",
+  "reselect": "latest"
+}
